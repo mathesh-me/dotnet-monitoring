@@ -4,7 +4,7 @@
 
 **Original Repo Link** : https://github.com/Aj7Ay/DotNet-monitoring
 
-**Important Note** : You don't have change Every thing in this Repository. You just need to Change makefile Only.
+**Important Note** : You don't have to change Every thing in this Repository. You just need to Change makefile Only.
 
 This is a simple .NET web app using the new minimal hosting model, and Razor pages. It was created from the `dotnet new webapp` template and modified adding custom APIs, Bootstrap v5, Microsoft Identity and other packages/features.
 
